@@ -8,5 +8,5 @@ Customize the information as you need and include social icons you desire.
 
 ## Please, be cool.
 
-![alt text](https://github.com/tkhrl/email_signature_master/assets/example_signature.png?raw=true "Example of email signature")
+![alt text](https://github.com/tkhrl/email_signature_master/blobl/assets/example_signature.png?raw=true "Example of email signature")
 
