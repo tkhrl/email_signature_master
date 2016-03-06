@@ -8,5 +8,5 @@ Customize the information as you need and include social icons you desire.
 
 ## Please, be cool.
 
-![alt text](/../email_signature_master/assets/example_signature.png?raw=true "Example of email signature")
+
 
